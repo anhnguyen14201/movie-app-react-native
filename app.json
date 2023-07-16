@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "app-movie",
+    "slug": "app-movie",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "app-movie"
+}
